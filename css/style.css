@@ -1,0 +1,26 @@
+.kwadrat {
+    background-color: green;
+    height: 400px;
+    width: 400px;
+    position: relative;
+}
+
+.kwadrat .red {
+    background-color: red;
+
+    bottom: 0px;
+    left: 0px;
+}
+
+.kwadrat .blue {
+    background-color: blue;
+    top: 0px;
+    right: 0px;
+}
+
+.kwadrat .srodek {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+
+}
